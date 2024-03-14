@@ -1,5 +1,5 @@
 #### Complete App
-This Project done with watching One youtuber and also i did not finish it yet.
+This project was done while watching a YouTuber, and I haven't finished it yet.
 
 [Jobify](https://jobify.live/)
 
